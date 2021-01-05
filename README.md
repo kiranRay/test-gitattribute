@@ -1,0 +1,2 @@
+# test-gitattribute
+test
